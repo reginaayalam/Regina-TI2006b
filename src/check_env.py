@@ -1,0 +1,8 @@
+import sys
+import pandas as pd
+import matplotlib
+
+print("Python:", sys.version)
+print("pandas:", pd.__version__)
+print("matplotlib:", matplotlib.__version__)
+print("Workbench OK")

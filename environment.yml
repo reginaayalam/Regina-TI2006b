@@ -1,0 +1,10 @@
+name: ti2006b-workbench
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - matplotlib
+  - ipykernel
+  - pandas
+  - jupyter
+
