@@ -1,7 +1,7 @@
 # Databricks notebook source
 # MAGIC %md
 # MAGIC # Basic Statistics – MLOps in Databricks (TI2006B)
-# MAGIC **Alumna:** Regina Ayala Merla · A00841585
+# MAGIC **Alumna:** Regina Ayala Merla · A00841585 · Editado desde GitHub
 # MAGIC
 # MAGIC **Pregunta:** ¿Cómo varían los montos de las transacciones entre canales (Online vs. Store)?
 # MAGIC
